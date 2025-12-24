@@ -1,0 +1,4 @@
+(executable
+ (public_name c-formatter)
+ (name main)
+ (libraries c_formatter))

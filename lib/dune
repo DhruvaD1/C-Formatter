@@ -1,0 +1,3 @@
+(library
+ (public_name c-formatter)
+ (name c_formatter))
