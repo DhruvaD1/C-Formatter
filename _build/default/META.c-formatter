@@ -1,0 +1,6 @@
+description = ""
+requires = ""
+archive(byte) = "c_formatter.cma"
+archive(native) = "c_formatter.cmxa"
+plugin(byte) = "c_formatter.cma"
+plugin(native) = "c_formatter.cmxs"
